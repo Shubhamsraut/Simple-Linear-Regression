@@ -3,5 +3,11 @@
 2) Salary_hike -> Build a prediction model for Salary_hike
 
 ------------------------------------------------------------
+**
+Steps accompolished in the code:**
 
-Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
+ 1) Importing the libraries and dataset
+ 2) Finding the correlation
+ 3) Building of the model
+ 4) Prediction of new data point 
+ 5) Alternate checking of new accuracy
