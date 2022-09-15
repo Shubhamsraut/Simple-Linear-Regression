@@ -6,8 +6,8 @@
 
 **Steps accompolished in the code: **
 
- 1) Importing the libraries and dataset
- 2) Finding the correlation
- 3) Building of the model
- 4) Prediction of new data point 
- 5) Alternate checking of new accuracy
+ 1) Importing the libraries and dataset.
+ 2) Finding the correlation.
+ 3) Building the model.
+ 4) Prediction of new data point.
+ 5) Alternate checking of new accuracy.
