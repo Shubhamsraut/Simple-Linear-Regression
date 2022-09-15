@@ -3,8 +3,8 @@
 2) Salary_hike -> Build a prediction model for Salary_hike
 
 ------------------------------------------------------------
-**
-Steps accompolished in the code:**
+
+**Steps accompolished in the code: **
 
  1) Importing the libraries and dataset
  2) Finding the correlation
